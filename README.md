@@ -17,8 +17,9 @@ Below are the data columns and their descriptions that can be found in the "gian
 | Column Name  | Description                      |
 | ------------ | -------------------------------- |
 | Title        | Title of the PlayStation 2 game. |
-| Release Date | Release date of the game.        |
+| Release Date | Exact release date of the game.        |
 | Description  | A brief description of the game. |
+| Release Year  | Extracted year of release of the game. |
 
 ### Terms of Use
 
